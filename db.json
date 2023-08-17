@@ -1,0 +1,142 @@
+{
+  "usuarios": [
+    {
+      "nombre": "Empleado1",
+      "usuario": "usuario1",
+      "password": "456",
+      "id": 1
+    },
+    {
+      "nombre": "Empleado2",
+      "usuario": "usuario2",
+      "password": "765",
+      "id": 2
+    },
+    {
+      "nombre": "Empleado3",
+      "usuario": "usuario3",
+      "password": "876",
+      "id": 3
+    },
+    {
+      "nombre": "Empleado4",
+      "usuario": "usuario4",
+      "password": "876",
+      "id": 4
+    },
+    {
+      "nombre": "Empleado5",
+      "usuario": "usuario5",
+      "password": "7654",
+      "id": 5
+    },
+    {
+      "nombre": "Empleado5",
+      "usuario": "usuario5",
+      "password": "test",
+      "id": 6
+    },
+    {
+      "nombre": "Empleado6",
+      "usuario": "usuario6",
+      "password": "654",
+      "id": 7
+    },
+    {
+      "nombre": "Empleado7",
+      "usuario": "usuario7",
+      "password": "456",
+      "id": 8
+    },
+    {
+      "nombre": "empleado8",
+      "usuario": "usuario8",
+      "password": "765",
+      "id": 9
+    },
+    {
+      "nombre": "empleado9",
+      "usuario": "usuario9",
+      "password": "654",
+      "id": 10
+    },
+    {
+      "nombre": "empleado10",
+      "usuario": "usuario10",
+      "password": "765",
+      "id": 11
+    },
+    {
+      "nombre": "empleado11",
+      "usuario": "usuario11",
+      "password": "542",
+      "id": 12
+    },
+    {
+      "nombre": "empleado12",
+      "usuario": "usuario12",
+      "password": "876",
+      "id": 13
+    },
+    {
+      "nombre": "empleado13",
+      "usuario": "usuario13",
+      "password": "876",
+      "id": 14
+    },
+    {
+      "nombre": "empleado14",
+      "usuario": "usuario14",
+      "password": "test",
+      "id": 15
+    },
+    {
+      "nombre": "empleado15",
+      "usuario": "usuario15",
+      "password": "765",
+      "id": 16
+    },
+    {
+      "nombre": "empleado16",
+      "usuario": "usuario16",
+      "password": "test",
+      "id": 17
+    },
+    {
+      "nombre": "empleado17",
+      "usuario": "usuario17",
+      "password": "test",
+      "id": 18
+    },
+    {
+      "nombre": "empleado18",
+      "usuario": "usuario18",
+      "password": "765",
+      "id": 19
+    },
+    {
+      "nombre": "empleado20",
+      "usuario": "usuario20",
+      "password": "test",
+      "id": 20
+    },
+    {
+      "nombre": "empleado21",
+      "usuario": "usuario21",
+      "password": "test",
+      "id": 21
+    },
+    {
+      "nombre": "empleado22",
+      "usuario": "usuario22",
+      "password": "567",
+      "id": 22
+    },
+    {
+      "nombre": "empleado23",
+      "usuario": "usuario23",
+      "password": "678",
+      "id": 23
+    }
+  ]
+}

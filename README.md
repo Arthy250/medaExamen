@@ -6,7 +6,7 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 
 ## Before starting
 
-The local databases were made using json-server (https://github.com/typicode/json-server) so it is necessary to install the repository.
+The local database were made using json-server (https://github.com/typicode/json-server) so it is necessary to install the repository.
 
 For installation, follow the instructions on the github repository, when this process is done, run the local server with: "json-server --host your ip address db.json"
 
@@ -15,6 +15,18 @@ ex: json-server --host 192.168.0.8 db.json
 When this process is done, change the address in baseURL in 'src/api/LocalApi' to your IP address,
 
 ex: http://NEWIPADRESS:3000
+
+## Antes de empezar
+
+La base de datos locales se realizaron utilizando json-server (https://github.com/typicode/json-server) por lo que es necesario instalar el repositorio.
+
+Para la instalación, siga las instrucciones en el repositorio de github, cuando finalice este proceso, ejecute el servidor local con: "json-server --host your ip address db.json"
+
+ej.: json-server --host 192.168.0.8 db.json
+
+Cuando termine este proceso, cambie la dirección en baseURL en 'src/api/LocalApi' a su dirección IP,
+
+Ej.: http://NEWIPADRESS:3000
 
 ## Step 1: Start the Metro Server
 
